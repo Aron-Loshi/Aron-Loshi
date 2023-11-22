@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aron</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate frontend developer from Kosovo and lives in Germany</h3>
 
 - I’m currently going in **10th grade**
 
